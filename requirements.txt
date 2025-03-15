@@ -1,5 +1,5 @@
 Flask==2.3.2
-grpcio==1.56.0
+grpcio==1.71.0
 grpcio-tools==1.56.0
 gunicorn==20.1.0
 numpy==1.25.1
